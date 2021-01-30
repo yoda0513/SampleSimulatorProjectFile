@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 05ec2096c0334614abb8592f709051e0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mgen+ 2c
+  fontNames:
+  - Mgen+ 2c
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4eef1d3cb702434fbcf2fd1a642f0eb, type: 3}
+  - {fileID: 12800000, guid: 53e4b42a2a441ef45b88945235fd35ff, type: 3}
+  - {fileID: 12800000, guid: 13aec7dc1bb22dc46b8ade0f591269da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
